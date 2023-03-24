@@ -1,6 +1,6 @@
 # CIS - 600 Social Media and Data Mining
 ## **FINAL PROJECT**
-### **PERFORMING SENTIMENT ANALYSIS ON STOCK TICKERS USING MINED DATA FROM TWITTER**
+### **PERFORMING SENTIMENT ANALYSIS ON STOCK TICKERS USING DATA MINING ON TWITTER**
 
 ### 1. Project description
 - The rise in social media usage and the power of its influence has created new perspectives towards the traditional investment strategies in investing in stock market. Using hashtags of stock tickers, e.g. TSLA, NASDAQ, NVIDIA, on twitter, we can interpret the trend in the stocks performance over a certain period of time. This project uses sentiment analysis to measure this trend by mining tweets using twitters Twitter API and comparing them to real time data collected from Yahoo Finance (yfinance)
